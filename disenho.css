@@ -1,0 +1,13 @@
+.container h1 
+{
+   color: white;
+   font-size: 6rem;
+   text-align: center;
+   font-family: Roboto, sans-serif;
+}
+.container
+{
+	margin: 0;
+	padding: 50px;
+	background-image: url(https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fcdn.wonderfulengineering.com%2Fwp-content%2Fuploads%2F2014%2F07%2FLandscape-wallpapers-20.jpg&f=1);
+}

@@ -1,0 +1,380 @@
+html{
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100vh;
+}
+body
+{
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100vh;
+}
+.glyphicon-camera
+{
+  font-size: 100px;
+  padding: 25px;
+}
+.glyphicon-cofee
+{
+  font-size: 6rem;
+}
+.container iframe
+{
+  padding-bottom: 1px;
+}
+.container h5
+{
+  
+  color: white;
+  font-size: 2rem;
+
+}
+#hobbie
+{
+    padding-top: 5px;
+}
+.contact-btn
+{
+  border-color: white;
+  color: grey;
+}
+.container-fluid h2, h4{
+  padding: 20px;
+  text-align: center;
+}
+.container-fluid video
+{
+  max-height: 100%;
+  min-height: 100%;
+  size: 100vw;
+}
+.container-fluid p
+{
+  text-align: center;
+}
+#logoitb{
+  color: white;
+  max-width: 125px;
+  max-height: 90px;
+  margin: 0;
+  padding-bottom: 0.1px;
+}
+.glyphicon-globe
+{
+  text-align: left;
+  font-size: 270px;
+  padding: 10px;}
+.navbar-right ul li
+{
+  color: white;
+  
+}
+.container-fluid
+{
+  
+  padding: 10px;
+  
+
+}
+.container h1
+{
+  letter-spacing: 20px;
+  padding-top: 50px;
+  font-size: 3rem;
+  padding-bottom: 5px; 
+  text-transform: uppercase;
+  font-family: Lato, sans-serif;
+  color: rgb(10,50,80);
+  word-spacing: 15px;
+
+
+}
+
+.bg-1 h1
+{
+  color: white;
+}
+.nav
+{
+  align-content: center;
+  size: fixed;
+  
+}
+.navbar {
+
+      padding-top: 25px;
+      padding-bottom: 1px;
+      border: 0;
+      border-radius: 0;
+      margin-bottom: 0;
+      font-size: 20px;
+      background-color: white;
+      z-index: 7;
+      
+
+  }
+
+
+  .navbar-nav  li a:hover {
+      color: grey !important;
+  }
+
+body {
+  
+  font-size: 2rem;
+  line-height: 1.5;
+  overflow-x: hidden;
+  font-family: Lato, sans-serif;
+
+}
+
+.header {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  color: white;
+  
+}
+.btn a
+{
+  color: white;
+  border-color: grey;
+}
+
+.content {
+  max-width: 100%;
+  //padding-left: 1rem;
+  //padding-right: 1rem;
+  margin: 0;
+  text-align: center;
+  background-image: url(http://img08.deviantart.net/449b/i/2015/212/b/9/hud_interface_by_tit0-d93jqmp.jpg);
+  
+}
+
+
+.header-video {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+
+}
+
+.header-video video {
+  min-width: 100%;
+  min-height: 100%;
+}
+
+.header-overlay {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  margin: 0;
+  background: #303952;
+  z-index: auto;
+  opacity: 0.50;
+}
+
+.header-content {
+  z-index: 2;
+}
+#about h1
+{
+  color: white;
+  font-family: Roboto;
+}
+.header-content h1
+{
+  font-size: 7rem;
+  padding: 15px;
+  
+}
+
+.header-content p {
+  font-size: 2rem;
+  display: block;
+  padding-bottom: 50px;
+  font-family: "Roboto", "Arial", sans-serif;
+  padding-left: 3rem;
+  padding-right: 3rem;
+  margin: 0;
+}
+.btn{
+  background-color: transparent;
+  border-color: white;
+  color: white;
+  font-size: 20px;  
+  padding-right: 20px;
+}
+.btn:hover
+{
+  background-color: white;
+
+}
+.btn-1:hover
+{
+    background-color: transparent;
+}
+.btn-2:hover
+{
+  background-color: transparent;
+  color: white;
+}
+.thumnbail a:hover
+{
+  background-color: grey;
+}
+.thumbnail-dev img:hover
+{
+  padding: 25px, 25px;
+  -webkit-transtition:all .10s ease;
+  -moz-transition:all .9s ease; /* Firefox */
+-o-transition:all .9s ease; /* IE 9 */
+-ms-transition:all .9s ease; 
+-webkit-transform:scale(1.03);
+-moz-transform:scale(1.03);
+-ms-transform:scale(1.03);
+-o-transform:scale(1.03);
+transform:scale(1.03);
+
+
+}
+
+.thumbnail:hover
+{
+  padding: 25px, 25px;
+  box-shadow: 4px 1px lightgrey;
+  -webkit-transtition:all .10s ease;
+  -moz-transition:all .9s ease; /* Firefox */
+-o-transition:all .9s ease; /* IE 9 */
+-ms-transition:all .9s ease; 
+-webkit-transform:scale(1.03);
+-moz-transform:scale(1.03);
+-ms-transform:scale(1.03);
+-o-transform:scale(1.03);
+transform:scale(1.03);
+
+}
+.thumbnail img
+{
+
+-webkit-transition:all .5s ease; /* Safari y Chrome */
+-moz-transition:all .5s ease; /* Firefox */
+-o-transition:all .5s ease; /* IE 9 */
+-ms-transition:all .5s ease; /* Opera */
+width:80%;
+font-size: 21px;
+
+}
+.thumbnail:hover img {
+-webkit-transform:scale(1.15);
+-moz-transform:scale(1.15);
+-ms-transform:scale(1.15);
+-o-transform:scale(1.15);
+transform:scale(1.15);
+}
+.thumbnail {/*Ancho y altura son modificables al requerimiento de cada uno*/
+width:cover;
+height:cover;
+padding: 20px;
+border-width: 2px;
+
+}
+.jumbotron
+{
+  
+  z-index: 2;
+  padding: 100px;
+  //background-color: #031234;
+  background-image: url(http://img08.deviantart.net/449b/i/2015/212/b/9/hud_interface_by_tit0-d93jqmp.jpg);
+}
+.jumbotron-1
+{
+  
+  max-width: 100%;
+  max-height: 100%;
+  color: white;
+  background-size: cover; 
+  background-position: 35px 15px 15px;
+
+ }
+.jumbotron-1 h1 
+{
+  color: white;
+  opacity: 100;
+  font-size: 5rem;
+  font-family: Lato;
+}
+.jumbotron-1 h5
+{
+  color:white;
+}
+.jumbotron-2 h1
+{
+  
+  color: white;
+  font-size: 5rem;
+
+}
+.avatars 
+{
+  padding-left: 75px;
+
+}
+.contact p
+{
+  font-size: 2rem;
+  text-align: center;
+  word-spacing: 5px;
+  color: #fff;
+}
+button h1
+{
+  color: #fff;
+  font-size: 6rem;
+}
+button h1:hover
+{
+  color: #fff;
+  background-color: transparent;
+}
+.contact
+{
+  background-color: #031234;
+  z-index: 2;
+
+  margin: 0;
+
+}
+.contact button
+{
+  transform: translateY(35px);
+  border-color: #fff;
+}
+
+.glyphicon-user 
+{
+  color: #fff;
+  text-decoration-line: none;
+}
+.glyphicon-comment
+{
+  color: #fff;
+}
+
+.footer
+{
+  padding: 0;
+  margin: 0;
+  width: 100%;
+}
+.footer p
+{
+  font-size: 15px;
+}
